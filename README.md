@@ -1,7 +1,7 @@
 # Hey, I'm Thinh 👋
 
 3rd-year IT student at **HUTECH University** · Ho Chi Minh City 🇻🇳  
-Learning, building, and looking for **freelance / part-time opportunities**.
+Learning, building, ...
 
 ---
 
