@@ -66,7 +66,7 @@ Thesis project — using Reinforcement Learning to optimize video streaming qual
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:trangiathinhwork@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lixus.studies@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LixusThinh)
 
 > *Still learning. Still building. One step at a time.*
