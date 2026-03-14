@@ -9,8 +9,6 @@ Learning, building, and looking for **freelance / part-time opportunities**.
 
 - 🎓 B.S. Information Technology — expected graduation 2027
 - 🔭 Working on my thesis: **DQN-based Adaptive Bitrate Control** for HLS streaming
-- 🌱 Currently learning: Machine Learning, System Design
-- 💼 Open to **backend freelance** or **intern** roles
 - 📍 District 9, Ho Chi Minh City
 
 ---
