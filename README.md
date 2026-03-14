@@ -1,23 +1,23 @@
-# Hey, tao là Thịnh 👋
+# Hey, I'm Thinh 👋
 
-Sinh viên IT năm 3 tại **HUTECH** · Ho Chi Minh City 🇻🇳  
-Đang học, đang build, đang tìm **freelance / part-time**.
-
----
-
-## Về tao
-
-- 🎓 Chuyên ngành Công nghệ thông tin — dự kiến tốt nghiệp 2027
-- 🔭 Đang làm đồ án tốt nghiệp: **DQN-based Adaptive Bitrate Control** (HLS streaming)
-- 🌱 Đang học thêm: Machine Learning, System Design
-- 💼 Mở với cơ hội **freelance backend / intern**
-- 📍 Quận 9, TP.HCM
+3rd-year IT student at **HUTECH University** · Ho Chi Minh City 🇻🇳  
+Learning, building, and looking for **freelance / part-time opportunities**.
 
 ---
 
-## Skill hiện tại
+## About Me
 
-**Dùng được:**
+- 🎓 B.S. Information Technology — expected graduation 2027
+- 🔭 Working on my thesis: **DQN-based Adaptive Bitrate Control** for HLS streaming
+- 🌱 Currently learning: Machine Learning, System Design
+- 💼 Open to **backend freelance** or **intern** roles
+- 📍 District 9, Ho Chi Minh City
+
+---
+
+## Skills
+
+**Comfortable with:**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
@@ -27,7 +27,7 @@ Sinh viên IT năm 3 tại **HUTECH** · Ho Chi Minh City 🇻🇳
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Đang học:**
+**Currently learning:**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -38,16 +38,16 @@ Sinh viên IT năm 3 tại **HUTECH** · Ho Chi Minh City 🇻🇳
 ## Projects
 
 ### 📋 [Online Exam System](https://github.com/LixusThinh/online-exam-system)
-Web app thi trắc nghiệm online — clone ý tưởng từ Azota  
-Có phân quyền 3 role: Student / Teacher / Admin  
+Online exam web app inspired by Azota  
+Role-based access control: Student / Teacher / Admin  
 `FastAPI` `Next.js` `PostgreSQL`
 
-### 🏨 [QLKS](https://github.com/LixusThinh/QLKS)
-Phần mềm quản lý khách sạn — đồ án nhóm  
+### 🏨 [QLKS — Hotel Management System](https://github.com/LixusThinh/QLKS)
+Group project — hotel management desktop app  
 `C#` `.NET`
 
-### 🤖 DQN Adaptive Bitrate *(đang làm)*
-Đồ án tốt nghiệp — dùng Reinforcement Learning để tối ưu chất lượng video streaming  
+### 🤖 DQN Adaptive Bitrate *(in progress)*
+Thesis project — using Reinforcement Learning to optimize video streaming quality  
 `Python` `PyTorch`
 
 ---
@@ -64,9 +64,9 @@ Phần mềm quản lý khách sạn — đồ án nhóm
 
 ---
 
-## Liên hệ
+## Contact
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:trangiathinhwork@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LixusThinh)
 
-> *Vẫn đang học. Vẫn đang build. Từ từ thôi.*
+> *Still learning. Still building. One step at a time.*
