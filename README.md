@@ -33,11 +33,5 @@
 | [**DQN_ABR_Project**](https://github.com/LixusThinh/DQN_ABR_Project) | Deep Q-Network for adaptive bitrate streaming in HLS, with a comparative study against BOLA and rate-based algorithms (based on Pensieve). | Python · PyTorch |
 | [**abr-content-aware**](https://github.com/LixusThinh/abr-content-aware) | Research prototype for content-aware ABR: proxy-label sensitivity estimation, reward shaping, Plume-style synthetic trace sampling, reproducible verification pipeline. Limitations are documented openly in the repo. | Python · scikit-learn |
 | [**dat-san-vn**](https://github.com/LixusThinh/dat-san-vn) | Full-stack sports field booking platform — search, book and match online. [Live demo](https://dat-san-vn-eight.vercel.app) | Next.js · NestJS · TypeScript |
+| [**ble_emergency_app**](https://github.com/LixusThinh/ble_emergency_app) | SOS Mesh: offline emergency messaging over a Bluetooth Low Energy mesh, with end-to-end encrypted private messages and GPS-tagged SOS. | Flutter · Kotlin |
 | [**xiangqi-arena**](https://github.com/LixusThinh/xiangqi-arena) | Online Xiangqi (Chinese chess) platform, team project for the IT Project Management course. I own the Admin / Report / Database layer. | Next.js · NestJS · PostgreSQL · Socket.IO · pnpm workspaces |
-
-## Get in touch
-
-<!-- TODO: thêm email / LinkedIn thật của mày vào đây, ví dụ:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<your-email>)
--->
