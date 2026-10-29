@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Thịnh 👋</h1>
 
 <p align="center">
-  3rd-year IT student @ HUTECH · Machine Learning & Deep Reinforcement Learning · Full-stack
+  3rd-year IT student · Machine Learning & Deep Reinforcement Learning · Full-stack
 </p>
 
 ---
 
 ## About me
 
-- 🎓 Third-year Information Technology student at **HUTECH University** (Ho Chi Minh City), specializing in Machine Learning & Applications. Expected graduation: 2027.
+- 🎓 Third-year Information Technology student in Ho Chi Minh City, specializing in Machine Learning & Applications. Expected graduation: 2027.
 - 🔬 Research focus: **Deep Reinforcement Learning for adaptive bitrate (ABR) video streaming** — DQN vs. BOLA / rate-based baselines, content-aware reward design.
 - 🛠️ I build full-stack products with **Next.js + NestJS** and ML pipelines with **Python / PyTorch**.
 - 🌱 Currently exploring: RAG for Vietnamese, semi-supervised clustering, graph neural networks.
@@ -33,7 +33,7 @@
 | [**DQN_ABR_Project**](https://github.com/LixusThinh/DQN_ABR_Project) | Deep Q-Network for adaptive bitrate streaming in HLS, with a comparative study against BOLA and rate-based algorithms (based on Pensieve). | Python · PyTorch |
 | [**abr-content-aware**](https://github.com/LixusThinh/abr-content-aware) | Research prototype for content-aware ABR: proxy-label sensitivity estimation, reward shaping, Plume-style synthetic trace sampling, reproducible verification pipeline. Limitations are documented openly in the repo. | Python · scikit-learn |
 | [**dat-san-vn**](https://github.com/LixusThinh/dat-san-vn) | Full-stack sports field booking platform — search, book and match online. [Live demo](https://dat-san-vn-eight.vercel.app) | Next.js · NestJS · TypeScript |
-| [**xiangqi-arena**](https://github.com/LixusThinh/xiangqi-arena) | Online Xiangqi (Chinese chess) platform, team project for the IT Project Management course at HUTECH. I own the Admin / Report / Database layer. | Next.js · NestJS · PostgreSQL · Socket.IO · pnpm workspaces |
+| [**xiangqi-arena**](https://github.com/LixusThinh/xiangqi-arena) | Online Xiangqi (Chinese chess) platform, team project for the IT Project Management course. I own the Admin / Report / Database layer. | Next.js · NestJS · PostgreSQL · Socket.IO · pnpm workspaces |
 
 ## Get in touch
 
