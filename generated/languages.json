@@ -1,0 +1,9 @@
+{
+ "TypeScript": "s0",
+ "Dart": "s1",
+ "Python": "s2",
+ "C#": "s3",
+ "JavaScript": "s4",
+ "HTML": "s5",
+ "Kotlin": "s6"
+}
